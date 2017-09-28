@@ -5,5 +5,5 @@ r= random.randint(1,6)#gives random num
 name=charan
 print(r)
 if r==6:
-	print(r)
-	print("con")
+	print(r)# print name
+	print("con")# display
